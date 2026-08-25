@@ -1,0 +1,13 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+~$*
+
+# Local Excel/Office lock files
+~$*.xlsx
+~$*.xls
+
+# Optional local working files
+*.tmp
